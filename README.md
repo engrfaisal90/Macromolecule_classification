@@ -6,7 +6,7 @@ Initially the dataset had 10 classes and wasnt normalized. Most of the data was 
 
 
 </br>
-We normalized the dataset and minimized the problem to 4 class classification problem. The normalized dataset classification is shown here.
+In our preprocessing step we have reduced the number of classes to four. We called all the hybrid protein macromolecules as only hybrid, regardless of what kind of hybrid structure it is, and the protein labelled as protein only. The figure 3. Gives us detail of our new data.
 
 ![Screenshot](images/newplot1.png)
 
@@ -25,4 +25,50 @@ Results
   <img src="images/Confusion_matrix.png" width="400" />
   <img src="images/Results.png" width="400" /> 
 </p>
+
+Experiments on four differnt model were carried out. Table below shows accuracy comparison of all the models described below. CNN model has so far achieved the best and highest accuracy and precession. In terms of recall the CNN-GRU overperform CNN model.
+<table style="width:100%">
+  <tr>
+    <th>Model</th>
+    <th>Accuracy</th> 
+    <th>Precision</th>
+      <th>Recall</th>
+    <th>F1-score</th>
+      	
+  </tr>
+  <tr>
+    <td>CNN	</td>
+    <td>0.98</td> 
+    <td>0.91</td>
+  <td>0.875</td>
+  <td>0.895</td>
+  </tr>
+  <tr>
+    <td>Bi-LSTM</td>
+    <td>0.77</td> 
+    <td>0.77</td>
+  <td>0.78</td>
+  <td>0.76</td>
+  </tr>
+  <tr>
+  	0.79	0.78	0.79	0.78
+    <td>CNN-LSTM	</td>
+    <td>0.79</td> 
+    <td>0.78</td>
+  <td>0.79</td>
+  <td>0.78</td>
+  </tr>
+  <tr>
+    <td>CNN-GRU	</td>
+    <td>0.90</td> 
+    <td>0.90</td>
+  <td>0.92</td>
+  <td>0.92</td>
+  </tr>
+  
+</table>
+		
+
+
+
 
