@@ -19,6 +19,6 @@ Model Loss and Accuracy
 
 ![Screenshot](images/Loss.png) ![Screenshot](images/Accuracy.png)
 
-![Screenshot](images/Confusion_matrix.png)
+Results
 
-![Screenshot](images/Results.png)
+![Screenshot](images/Confusion_matrix.png) ![Screenshot](images/Results.png)
