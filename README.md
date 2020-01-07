@@ -22,7 +22,7 @@ Model Loss and Accuracy
 Results
 
 <p float="left">
-  <img src="images/Confusion_matrix.png" width="500" />
-  <img src="images/Results.png" width="500" /> 
+  <img src="images/Confusion_matrix.png" width="400" />
+  <img src="images/Results.png" width="400" /> 
 </p>
 
