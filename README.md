@@ -19,7 +19,7 @@ Model Loss and Accuracy
 
 ![Screenshot](images/Loss.png) ![Screenshot](images/Accuracy.png)
 
-Results
+<u> Results: </u> 
 
 <p float="left">
   <img src="images/Confusion_matrix.png" width="400" />
