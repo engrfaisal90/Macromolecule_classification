@@ -8,7 +8,7 @@ Initially the dataset had 10 classes and wasnt normalized. Most of the data was 
 </br>
 We normalized the dataset and minimized the problem to 4 class classification problem. The normalized dataset classification is shown here.
 </br>
-![Screenshot](images/newplot (1).png)
+![Screenshot](images/newplot1.png)
 
 </br>
 Different models were developed and tested. One of the model, and its results are shown here.
