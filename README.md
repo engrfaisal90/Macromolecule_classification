@@ -13,13 +13,13 @@ In our preprocessing step we have reduced the number of classes to four. We call
 
 ![Screenshot](images/newplot1.png)
 
-</br>
+
 ## Model
 Different models were developed and tested. One of the model architecture and its results are shown here.</br>
 
 ![Screenshot](images/Model.png)
 
-Model Loss and Accuracy
+## Model Loss and Accuracy
 
 ![Screenshot](images/Loss.png) ![Screenshot](images/Accuracy.png)
 
@@ -30,7 +30,7 @@ Model Loss and Accuracy
   <img src="images/Results.png" width="400" /> 
 </p>
 
-</br>
+
 ## Overall Results
 </br>
 Experiments on four differnt model were carried out. Table below shows accuracy comparison of all the models described below. CNN model has so far achieved the best and highest accuracy and precession. In terms of recall the CNN-GRU overperform CNN model.
