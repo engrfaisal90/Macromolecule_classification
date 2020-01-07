@@ -26,6 +26,7 @@ Results
   <img src="images/Results.png" width="400" /> 
 </p>
 
+</br>
 Experiments on four differnt model were carried out. Table below shows accuracy comparison of all the models described below. CNN model has so far achieved the best and highest accuracy and precession. In terms of recall the CNN-GRU overperform CNN model.
 <table style="width:100%">
   <tr>
@@ -37,7 +38,7 @@ Experiments on four differnt model were carried out. Table below shows accuracy 
       	
   </tr>
   <tr>
-    <td>CNN	</td>
+    <td>CNN</td>
     <td>0.98</td> 
     <td>0.91</td>
   <td>0.875</td>
@@ -51,8 +52,7 @@ Experiments on four differnt model were carried out. Table below shows accuracy 
   <td>0.76</td>
   </tr>
   <tr>
-  	0.79	0.78	0.79	0.78
-    <td>CNN-LSTM	</td>
+    <td>CNN-LSTM</td>
     <td>0.79</td> 
     <td>0.78</td>
   <td>0.79</td>
