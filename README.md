@@ -11,9 +11,13 @@ We normalized the dataset and minimized the problem to 4 class classification pr
 ![Screenshot](images/newplot1.png)
 
 </br>
-Different models were developed and tested. One of the model, and its results are shown here.
+Different models were developed and tested. One of the model architecture is shown here. and its results are shown here.
 ![Screenshot](images/Model.png)
+
 ![Screenshot](images/Loss.png)
+
 ![Screenshot](images/Accuracy.png)
+
 ![Screenshot](images/Confusion_matrix.png)
+
 ![Screenshot](images/Results.png)
